@@ -1,4 +1,4 @@
-# Contributing to this project
+# Contributing to this project1
 
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved.
@@ -13,7 +13,7 @@ _**Please Note:** These guidelines are adapted from [@necolas](https://github.co
 an excellent starting point for contributing to any open source project._
 
 
-## Using the issue tracker
+## Using the issue tracker1
 
 The [issue tracker](https://github.com/major/MySQLTuner-perl/issues) is the
 preferred channel for [bug reports](#bugs), [features requests](#features)
